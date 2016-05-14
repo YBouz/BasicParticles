@@ -1,0 +1,10 @@
+name: BasicParticles
+author: MisterCreeper
+version: 1.0
+main: net.creepynations.particles.Core
+
+commands:
+  particles:
+    description: Display the particles menu.
+    usage: /<command>
+    aliases: [p, effects]

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BasicParticles">
+    <output-path>$PROJECT_DIR$/../../Creepy Testing/plugins</output-path>
+    <root id="archive" name="BasicParticles.jar">
+      <element id="module-output" name="BasicParticles" />
+    </root>
+  </artifact>
+</component>
